@@ -1,0 +1,14 @@
+
+Version compatibility
+https://angular.dev/reference/versions
+
+password settings..
+https://www.rose-hulman.edu/class/csse/csse290-WebProgramming/201520/SupportCode/SQL-setup.html
+
+add angular material ...
+ng add @angular/material
+
+https://ionicframework.com/docs/angular/slides?_gl=1*1gs8hlg*_gcl_au*MTYxODUyODg5Mi4xNzIxNTgyNzgw*_ga*MTg5NzE2NjQ0MS4xNjgzNTI2MzEy*_ga_REH9TJF6KF*MTcyMTU4Mjc4MC4yMC4wLjE3MjE1ODI3ODguMC4wLjA.
+
+add swiper ...
+https://www.youtube.com/watch?v=qUTYO_IqPqM

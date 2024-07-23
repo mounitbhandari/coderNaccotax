@@ -1,4 +1,31 @@
-.secondary-swiper{
+.secondary-swiper {
     width: 90%;
     margin: auto;
+}
+
+.container-div {
+
+    background: #fff;
+    /* Used if the image is unavailable */
+    // background-image: url('/assets/img/bk.jpg'); /* The image used */
+    // height: 500px; /* You must set a specified height */
+    // background-size: cover;
+    // background-repeat: no-repeat;
+    // background-attachment: fixed;
+}
+
+.secondary-swiper swiper-slide {
+    img {
+        width: 100px;
+    }
+}
+
+.course-div {
+    mat-card {
+        border: none;
+        box-shadow: 2px 2px 8px #5e5d5d;
+    }
+}
+.youtube-vdo{
+    box-shadow: 2px 2px 8px #5e5d5d;
 }
